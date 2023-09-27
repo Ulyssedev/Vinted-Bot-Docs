@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# Custom Location
+# Custom location
 
 You can customize the origin location of the items the bot sends by using the `/location` command without any other element:
 
