@@ -8,5 +8,5 @@ The classic subscription allows you to get access to advanced analytics that inc
 
 ## Usage
 
-You can select the `📈 Query analytics` option in the [select menu](/docs/features-starter/basic-analytics#usage) to get access to the analytics. A prompt will then ask you to input a query, you can input any keyword wanted or any vinted catalog url.
+You can select the `📈 Query analytics` option in the [select menu](/docs/features-starter/basic-analytics#usage) to get access to the analytics. A prompt will then ask you to input a query, you can input any keyword wanted or any Vinted catalog url.
 Once done, the bot will send you a message with the analytics for the query you entered.
