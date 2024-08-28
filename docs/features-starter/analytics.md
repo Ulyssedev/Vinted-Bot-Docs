@@ -1,11 +1,11 @@
 ---
-sidebar_position: 4
+sidebar_position: 2
 emoji: 📊
 ---
 
-# Basic analytics
+# Analytics
 
-The starter subscription includes a basic set of analytics.
+The starter subscription includes a set of analytics.
 
 ## Usage
 
@@ -24,3 +24,8 @@ Once you select the user analytics, the bot will respond with a message promptin
 
 You will need to enter the url of the profile you want to see the analytics for.
 Once done, the bot will respond with a message containing the analytics.
+
+## Query analytics
+
+You can select the `📈 Query analytics` option in the [select menu](/docs/features-starter/basic-analytics#usage) to get access to the analytics. A prompt will then ask you to input a query, you can input any keyword wanted or any Vinted catalog url.
+Once done, the bot will send you a message with the analytics for the query you entered.
