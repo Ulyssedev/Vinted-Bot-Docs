@@ -10,7 +10,7 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://docs.vintedbot.com',
+  url: 'https://docs.thebotbay.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -67,7 +67,7 @@ const config = {
             label: 'Documentation',
           },
           {
-            href: 'https://vintedbot.com',
+            href: 'https://thebotbay.com',
             label: 'Website',
             position: 'left',
           },
@@ -99,7 +99,7 @@ const config = {
             items: [
               {
                 label: 'Website',
-                href: 'https://vintedbot.com',
+                href: 'https://thebotbay.com',
               },
             ],
           },

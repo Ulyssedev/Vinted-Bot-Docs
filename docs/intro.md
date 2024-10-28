@@ -4,13 +4,13 @@ sidebar_position: 1
 
 # Getting started
 
-This documentation will guide you through the features that [Vinted Bot](https://vintedbot.com) offers.
+This documentation will guide you through the features that [Vinted Bot](https://thebotbay.com) offers.
 
 ### What you'll need
 
 - A [Discord](https://discord.com/) account
 - A [Vinted](https://www.vinted.fr/) account
-- A [Vinted Bot](https://vintedbot.com/pricing) subscription
+- A [Vinted Bot](https://thebotbay.com/pricing) subscription
 
 ## Join the Vinted Bot Discord server
 
@@ -23,4 +23,4 @@ Your ticket will be assigned to a staff member who will guide you through the se
 
 ### Optional: Link your Discord account
 
-Some additional features of the bot may require you to link your Discord account to your Vinted Bot account. To do so, simply go to the [Vinted Bot website](https://vintedbot.com) and click on the "Link Discord" button available in the top left corner.
+Some additional features of the bot may require you to link your Discord account to your Vinted Bot account. To do so, simply go to the [Vinted Bot website](https://thebotbay.com) and click on the "Link Discord" button available in the top left corner.

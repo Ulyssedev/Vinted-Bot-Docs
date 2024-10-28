@@ -10,7 +10,7 @@ The Affiliation Program is a way to earn money by referring people to use the bo
 
 ## How do I get started?
 
-In order to get started, simply head over to the [dashboard](https://vintedbot.com/dashboard) and click on the "Register to affiliation program" button. You will then need to complete Stripe's onboarding process. Once complete, you will be able to share your referral link and start earning money.
+In order to get started, simply head over to the [dashboard](https://thebotbay.com/dashboard) and click on the "Register to affiliation program" button. You will then need to complete Stripe's onboarding process. Once complete, you will be able to share your referral link and start earning money.
 
 ## Earnings tiers
 
@@ -24,7 +24,7 @@ The more people you refer, the more money you will earn. The following table sho
 
 ## How do I manage my earnings?
 
-You can manage your earnings from the [dashboard](https://vintedbot.com/dashboard). To do so, simply click on the "Login to Stripe dashboard" button. You will then be redirected to Stripe's express dashboard where you can manage your earnings, view your balance, and more.
+You can manage your earnings from the [dashboard](https://thebotbay.com/dashboard). To do so, simply click on the "Login to Stripe dashboard" button. You will then be redirected to Stripe's express dashboard where you can manage your earnings, view your balance, and more.
 
 *Here's a preview of what the dashboard looks like:*
 ![Stripe express dashboard](/img/express-dashboard.png)
